@@ -16,7 +16,7 @@ the near future.
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Splunk Log Analysis and Threat Detection      | <a href="https://github.com/BHelmss/Splunk-Cloud-Lab">Splunk Cloud Lab</a>|
-| Chronicle SIEM (Threat analysis)              | |
+| Chronicle SIEM (Threat analysis)              | <a href="https://github.com/BHelmss/Chronicle-Lab">Chronicle Lab</a>|
 
 ## Tools
 
