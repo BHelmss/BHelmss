@@ -3,7 +3,7 @@
 
 Brief Introduction
 
-I am a (soon to be) cybersecurity graduate from the University of Central Missouri.
+I am a cybersecurity graduate from the University of Central Missouri.
 
 ## Objective
 
