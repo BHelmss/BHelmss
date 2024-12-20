@@ -3,7 +3,7 @@
 
 Brief Introduction
 
-I am a cybersecurity graduate from the University of Central Missouri.
+I have a B.S. in Cybersecurity | Secure Software Development from the University of Central Missouri.
 
 ## Objective
 
@@ -17,6 +17,7 @@ the near future.
 |-----------------------------------------------|----------------------------|
 | Splunk Log Analysis and Threat Detection      | <a href="https://github.com/BHelmss/Splunk-Cloud-Lab">Splunk Cloud Lab</a>|
 | Chronicle SIEM (Threat analysis)              | <a href="https://github.com/BHelmss/Chronicle-Lab">Chronicle Lab</a>|
+| Samba File Sharing                            | <a href="https://github.com/BHelmss/Centralized-Data-Storage">Centalized Data Storage</a>|
 
 ## Tools
 
