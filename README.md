@@ -56,4 +56,4 @@ the near future.
 ## Projects
 - <a href="https://github.com/BHelmss/Splunk-Cloud-Lab">Splunk Cloud Lab</a>
 - <a href="https://github.com/BHelmss/Chronicle-Lab">Chronicle Lab</a>
-- <a href="https://github.com/BHelmss/Home-Lab)">Home Lab</a>
+- <a href="https://github.com/BHelmss/Home-Lab">Home Lab</a>
