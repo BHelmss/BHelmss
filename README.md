@@ -1,7 +1,5 @@
 # Hello, I'm Brendan Helms
 <a href="https://www.linkedin.com/in/brendan-helms"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/YourUsername"><img src="https://img.shields.io/badge/TryHackMe-green?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
-
 
 Brief Introduction
 
