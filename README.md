@@ -18,6 +18,7 @@ the near future.
 | Splunk Log Analysis and Threat Detection      | <a href="https://github.com/BHelmss/Splunk-Cloud-Lab">Splunk Cloud Lab</a>|
 | Chronicle SIEM (Threat analysis)              | <a href="https://github.com/BHelmss/Chronicle-Lab">Chronicle Lab</a>|
 | Samba File Sharing                            | <a href="https://github.com/BHelmss/Centralized-Data-Storage">Centalized Data Storage</a>|
+| Metasploit Exploitation                       | <a href="https://github.com/BHelmss/SSH_Login_Exploit">SSH Exploit Lab</a>|
 
 ## Tools
 
@@ -58,3 +59,4 @@ the near future.
 - <a href="https://github.com/BHelmss/Splunk-Cloud-Lab">Splunk Cloud Lab</a>
 - <a href="https://github.com/BHelmss/Chronicle-Lab">Chronicle Lab</a>
 - <a href="https://github.com/BHelmss/Home-Lab">Home Lab</a>
+- <a href="https://github.com/BHelmss/SSH_Login_Exploit">SSH Exploit Lab</a>
