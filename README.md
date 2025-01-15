@@ -60,3 +60,7 @@ the near future.
 - <a href="https://github.com/BHelmss/Chronicle-Lab">Chronicle Lab</a>
 - <a href="https://github.com/BHelmss/Home-Lab">Home Lab</a>
 - <a href="https://github.com/BHelmss/SSH_Login_Exploit">SSH Exploit Lab</a>
+
+## TryHackMe Write_Uos
+Link to some of my completed CTF's on tryhackme and how I did them.
+- <a href="https://github.com/BHelmss/tryhackme_CTF_Writeups">TryHackMe Write_Ups</a>
