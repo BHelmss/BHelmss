@@ -52,6 +52,7 @@ the near future.
 
 ## Certifications
 <div>
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-E00?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
