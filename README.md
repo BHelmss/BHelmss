@@ -3,7 +3,7 @@
 <a href="https://x.com/BrendanHelmss"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
 
 Feel free to check out my website for more information!!
-<a href="https://github.com/BHelmss/BHelmss.github.io">Personal Website</a>
+<a href="https://bhelmss.github.io">Personal Website</a>
 
 
 ## Objective
