@@ -1,9 +1,10 @@
 # Hello, I'm Brendan Helms
 <a href="https://www.linkedin.com/in/brendan-helms"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/BrendanHelmss"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
 
-Brief Introduction
+Feel free to check out my website for more information!!
+<a href="https://github.com/BHelmss/BHelmss.github.io">Personal Website</a>
 
-I have a B.S. in Cybersecurity | Secure Software Development from the University of Central Missouri.
 
 ## Objective
 
