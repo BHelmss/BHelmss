@@ -18,6 +18,7 @@ the near future.
 |-----------------------------------------------|----------------------------|
 | Splunk Log Analysis and Threat Detection      | <a href="https://github.com/BHelmss/Splunk-Cloud-Lab">Splunk Cloud Lab</a>|
 | NIST 800-63B Password Checker                 | <a href="https://github.com/BHelmss/password_checker">NIST Password Checker</a>|
+| Gerrit Code Review                            | <a href="https://github.com/BHelmss/Gerrit_Code_Review">Gerrit Code Review</a>|
 | Spotbugs + OWASP Static Analysis              | <a href="https://github.com/BHelmss/SpotBugs_Static_Analysis">SpotBugs Static Analysis</a>|
 | Chronicle SIEM (Threat analysis)              | <a href="https://github.com/BHelmss/Chronicle-Lab">Chronicle Lab</a>|
 | Samba File Sharing                            | <a href="https://github.com/BHelmss/Centralized-Data-Storage">Centalized Data Storage</a>|
@@ -66,6 +67,7 @@ the near future.
 - <a href="https://github.com/BHelmss/SSH_Login_Exploit">SSH Exploit Lab</a>
 - <a href="https://github.com/BHelmss/password_checker">NIST Password Checker</a>
 - <a href="https://github.com/BHelmss/SpotBugs_Static_Analysis">SpotBugs Static Analysis</a>
+- <a href="https://github.com/BHelmss/Gerrit_Code_Review">Gerrit Code Review</a>
 
 ## TryHackMe Write_Uos
 Link to some of my completed CTF's on tryhackme and how I did them.
