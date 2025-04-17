@@ -23,6 +23,7 @@ the near future.
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Splunk Log Analysis and Threat Detection      | <a href="https://github.com/BHelmss/Splunk-Cloud-Lab">Splunk Cloud Lab</a>|
+| Nessus Vulnerability Scanning                 |<a href="https://github.com/BHelmss/Nessus-Vulnerability-Scan-Lab">Nessus Vulnerability Scan Lab</a>|
 | Python Scripting/Automation                   | <a href="https://github.com/BHelmss/password_checker">NIST Password Checker</a>|
 | Secure Code Review                            | <a href="https://github.com/BHelmss/Gerrit_Code_Review">Gerrit Code Review</a>|
 | Spotbugs + OWASP Static Analysis              | <a href="https://github.com/BHelmss/SpotBugs_Static_Analysis">SpotBugs Static Analysis</a>|
@@ -78,6 +79,7 @@ the near future.
 
 ## Projects
 - <a href="https://github.com/BHelmss/Splunk-Cloud-Lab">Splunk Cloud Lab</a>
+- <a href="https://github.com/BHelmss/Nessus-Vulnerability-Scan-Lab">Nessus Vulnerability Lab</a>
 - <a href="https://github.com/BHelmss/Chronicle-Lab">Chronicle Lab</a>
 - <a href="https://github.com/BHelmss/Home-Lab">Home Lab</a>
 - <a href="https://github.com/BHelmss/SSH_Login_Exploit">SSH Exploit Lab</a>
