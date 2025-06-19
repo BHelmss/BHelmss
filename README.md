@@ -33,6 +33,13 @@ the near future.
 
 ## Tools
 
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?&style=for-the-badge&logo=Google-Cloud&logoColor=white" />
+</div>
+AWS Cloud Based Practicioner Labs: <a href="https://github.com/BHelmss/AWS-Cloud-Practicioner-Essentials"> AWS Labs</a>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -46,12 +53,6 @@ the near future.
     <img src="https://img.shields.io/badge/Qualys-E60027?style=for-the-badge&logo=Qualys&logoColor=white" />
 <div>
     
-### Cloud
-<div>
-    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?&style=for-the-badge&logo=Google-Cloud&logoColor=white" />
-</div>
-
 ### Languages
 <div>
     <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white" />
