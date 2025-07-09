@@ -3,7 +3,7 @@
 <a href="https://x.com/BrendanHelmss"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
 
 Feel free to check out my portfolio website additional info!!
-<a href="https://bhelmss.github.io">Brendan's Portfolio</a>
+<a href="https://bhelmss.github.io">Brendan's Cybersecurity Portfolio</a>
 
 
 ## Objective
@@ -22,6 +22,7 @@ the near future.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| AWS Cloud Computing                           | <a href="https://github.com/BHelmss/AWS-Cloud-Practicioner-Essentials"> AWS Labs</a>|
 | Splunk Log Analysis and Threat Detection      | <a href="https://github.com/BHelmss/Splunk-Cloud-Lab">Splunk Cloud Lab</a>|
 | Nessus Vulnerability Scanning                 |<a href="https://github.com/BHelmss/Nessus-Vulnerability-Scan-Lab">Nessus Vulnerability Scan Lab</a>|
 | Python Scripting/Automation                   | <a href="https://github.com/BHelmss/password_checker">NIST Password Checker</a>|
@@ -30,6 +31,7 @@ the near future.
 | Chronicle SIEM (Threat analysis)              | <a href="https://github.com/BHelmss/Chronicle-Lab">Chronicle Lab</a>|
 | Samba File Sharing                            | <a href="https://github.com/BHelmss/Centralized-Data-Storage">Centalized Data Storage</a>|
 | Metasploit Exploitation                       | <a href="https://github.com/BHelmss/SSH_Login_Exploit">SSH Exploit Lab</a>|
+| OWASP ZAP WEB Testing                         | <a href="https://github.com/BHelmss/OWASP-ZAP-DEMO">OWASP DEMO</a>|
 
 ## Tools
 
@@ -38,7 +40,6 @@ the near future.
     <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?&style=for-the-badge&logo=Google-Cloud&logoColor=white" />
 </div>
-AWS Cloud Based Practicioner Labs: <a href="https://github.com/BHelmss/AWS-Cloud-Practicioner-Essentials"> AWS Labs</a>
 
 ### Network
 <div>
@@ -47,12 +48,6 @@ AWS Cloud Based Practicioner Labs: <a href="https://github.com/BHelmss/AWS-Cloud
     <img src="https://img.shields.io/badge/-Samba-009e73?&style=for-the-badge&logo=Samba&logoColor=white" />
 </div>
 
-### Vulnerability Scanning
-<div>
-    <img src="https://img.shields.io/badge/Nessus-00B1E1?style=for-the-badge&logo=Tenable&logoColor=white" />
-    <img src="https://img.shields.io/badge/Qualys-E60027?style=for-the-badge&logo=Qualys&logoColor=white" />
-<div>
-    
 ### Languages
 <div>
     <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white" />
@@ -71,9 +66,11 @@ AWS Cloud Based Practicioner Labs: <a href="https://github.com/BHelmss/AWS-Cloud
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### Pentesting
+### Pentesting and Scanning
 <div>
     <img src="https://img.shields.io/badge/Burp%20Suite-FF7139?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nessus-00B1E1?style=for-the-badge&logo=Tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/OWASP%20ZAP-0A0A0A?style=for-the-badge&logo=OWASP&logoColor=white" />
     <img src="https://img.shields.io/badge/Caido-444444?style=for-the-badge&logo=bugatti&logoColor=white" />
 </div>
 
@@ -87,7 +84,8 @@ AWS Cloud Based Practicioner Labs: <a href="https://github.com/BHelmss/AWS-Cloud
 - <a href="https://github.com/BHelmss/password_checker">NIST Password Checker</a>
 - <a href="https://github.com/BHelmss/SpotBugs_Static_Analysis">SpotBugs Static Analysis</a>
 - <a href="https://github.com/BHelmss/Gerrit_Code_Review">Gerrit Code Review</a>
+- <a href="https://github.com/BHelmss/OWASP-ZAP-DEMO">OWASP ZAP DEMO</a>
 
-## TryHackMe Write_Uos
+## TryHackMe Write_Ups
 Link to some of my completed CTF's on tryhackme and how I did them.
 - <a href="https://github.com/BHelmss/tryhackme_CTF_Writeups">TryHackMe Write_Ups</a>
